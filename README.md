@@ -1,0 +1,1 @@
+# Gigabyte-Z690M-Aorus-Elite-DDR4-12700k-RX6600
