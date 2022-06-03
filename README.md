@@ -1,4 +1,6 @@
 # Gigabyte-Z690M-Aorus-Elite-DDR4-12700k-RX6600
+MacOS Monterey 12.4
+Opencore 0.8
 Fully Work
 AppleALC layout ID 11 
 Intel 1225 Gigabit work with arg e1000=0
